@@ -1,4 +1,4 @@
-# pick-and-painting-station-RAPID
+# pick-and-paint-station-RAPID
 This project was developed in RAPID and the simulation environment of RobotStudio (ABB). 
 
 ## 🎯 Goal
